@@ -89,13 +89,13 @@
     <string name="ls_clock">Widgets</string>
     <string name="ls_date">Styles Date</string>
     <string name="ls_shortcuts">Raccourcis</string>
-    <string name="ls_disable_elements">Eléments</string>
+    <string name="ls_disable_elements">Elements</string>
     <string name="ls_aplha">Transparence</string>
     <string name="ls_info">Information Avancée</string>
     <string name="ls_unlocking">Déverrouillage</string>
     <string name="ls_nofi">Limiteur de Notification</string>
-    <string name="ls_colors">Couleurs d\'Elément</string>
-    <string name="misc_plug">USB & Connexions</string>
+    <string name="ls_colors">Couleurs d\'élement</string>
+    <string name="misc_plug">USB et Connexions</string>
     <string name="misc_screenshot">Capture d\'écran</string>
     <string name="statusbar_clock">Horloge</string>
     <string name="statusbar_battery">Batterie</string>
